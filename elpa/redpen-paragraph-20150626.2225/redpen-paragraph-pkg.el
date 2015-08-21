@@ -1,0 +1,1 @@
+(define-package "redpen-paragraph" "20150626.2225" "RedPen interface." '((emacs "24") (cl-lib "0.5")) :url "https://github.com/karronoli/redpen-paragraph.el" :keywords '("document" "proofreading" "help"))

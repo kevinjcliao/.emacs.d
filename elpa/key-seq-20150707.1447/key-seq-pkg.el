@@ -1,0 +1,1 @@
+(define-package "key-seq" "20150707.1447" "map pairs of sequentially pressed keys to commands" '((key-chord "0.6")) :url "http://github.com/vlevit/key-seq.el" :keywords '("convenience" "keyboard" "keybindings"))

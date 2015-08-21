@@ -1,0 +1,1 @@
+(define-package "fm-bookmarks" "20150715.146" "Use file manager bookmarks (eg Dolphin, Nautilus, PCManFM) in Dired" '((emacs "24.3") (cl-lib "0.5")) :url "http://github.com/kuanyui/fm-bookmarks.el" :keywords '("files" "convenience"))
